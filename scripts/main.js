@@ -31,6 +31,13 @@ const createPop = (name, genre, age) => {
 }
 
 const atikens = createCountryBluegrass("Bruce Atikens", "Country", "23")
+const brown = createPop("Jensen Brown", "Pop", "20")
+const funkz = createFunkRap("Dre Funkz", "Rap", "25")
 const davis = createCountryBluegrass("Avilee Davis", "Country", "19")
+const grimes = createFunkRap("Dusta Grimes", "Rap", "25")
+const danielson = createCountryBluegrass("Bartholomew Danielson", "Bluegrass", "19")
+const kinkaid = createPop("Austin Kinkaid ", "Pop", "22")
+const branis = createFunkRap("Loyoncé Branis", "Rap", "27")
 console.log(chatten)
-console.log(davis)
+console.log(jumpStart)
+console.log(polar)
